@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5bac81794b063456f981df687761498f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 1188182664349199364, guid: 8717bc32bdf2e44ffa13d6818037163b, type: 3}
+  - startButton: {fileID: 366318448815465739, guid: 470802d0ba9f1458fbed362b4b5720f8, type: 3}
+  - scoreText: {fileID: 5217507597856985655, guid: 6bf1d5ed791664f3fa7f730b8a21be1e, type: 3}
+  - quitButton: {fileID: 5935431635774157558, guid: 346394acd68214bcabc3c29a7f2f1d03, type: 3}
+  - restartButton: {fileID: 3653565328911123695, guid: 23e6213b50cc64d79abe05a8fde7f3a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
